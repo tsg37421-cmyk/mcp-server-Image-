@@ -1,1 +1,7 @@
 fastmcp
+pip install ultralytics
+
+
+*
+sudo apt update
+sudo apt install -y libgl1
